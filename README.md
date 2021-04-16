@@ -4,5 +4,4 @@ First repository :)
 Hey ! Its me, just tryna understand github !
 
 # Une Image
-![Tux the linux mascot]
-(/linuxx.png)
+![Tux the linux mascot](/linuxx.png)
